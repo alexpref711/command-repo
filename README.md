@@ -11,3 +11,8 @@
 6. git push origin master (after all the usual stuff)
 
 
+# Branching
+
+1. git branch --> show the branches and stars the active branh
+2. git checkout (-b) branch_name --> Use this to jump branches or make new ones
+3. 
